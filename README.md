@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Zhengxiang-Lucas-Li
 
-<!--
-**zli832/zli832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡️ Aspiring Data Analyst& Business Analyst
 
-Here are some ideas to get you started:
+🛠️ **Skills**
+- Programming: Python (pandas, scikit-learn, matplotlib, seaborn), R(ggolot2, dplyr), SQL(joins, window functions)
+- Modeling & ML: Regression, Clustering, Time-Series Forecasting, Machine Learning, Deep Learning, Data Structures
+- Tools: Tableau, Power BI, AWS, Git
+- Techniques: Predictive Modeling, Data Visualization, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Projects**
+- 
+
+🎓 **Education**
+- Emory University, B.A. in Economics & Math
+
+📫 **Let’s connect**
+- [LinkedIn](https://www.linkedin.com/in/zhengxiang-li-12a257228/)
