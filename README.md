@@ -3,13 +3,15 @@
 ⚡️ Aspiring Data Analyst& Business Analyst
 
 🛠️ **Skills**
-- Programming: Python (pandas, scikit-learn, matplotlib, seaborn), R(ggolot2, dplyr), SQL(joins, window functions)
+- Programming:  SQL(joins, window functions), Python (Pandas, NumPy， scikit-learn, pyTorch, TenorFlow), R(ggolot2, dplyr)
 - Modeling & ML: Regression, Clustering, Time-Series Forecasting, Machine Learning, Deep Learning, Data Structures
-- Tools: Tableau, Power BI, AWS, Git
+- Analytic & Visualization: Advanced Excel(VBA, Monte Carlo, What-If analysis), PowerBI, Python(matplotlib, seaborn), Tableau
 - Techniques: Predictive Modeling, Data Visualization, Machine Learning
 
 🌱 **Projects**
-- 
+- Kaggle Project: Insurance Premium Prediction Using Tabular Machine Learning(Python)
+- Statistical Analysis of Commuting Behavior Across U.S. Regions(Python)
+- Machine Learning–Based Forecasting of Bond Market Returns:
 
 🎓 **Education**
 - Emory University, B.A. in Economics & Math
