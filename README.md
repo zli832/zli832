@@ -1,4 +1,4 @@
-# Hello, I'm Lucas-Li
+## Hello, I'm LucasLi👋
 
 ⚡️ Aspiring Data Analyst& Business Analyst
 
@@ -8,7 +8,7 @@
 - Analytic & Visualization: Advanced Excel(VBA, Monte Carlo, What-If analysis), PowerBI, Python(matplotlib, seaborn), Tableau
 - Techniques: Predictive Modeling, Data Visualization, Machine Learning
 
-🌱 **Projects**
+💻 **Projects**
 - Kaggle Project: Insurance Premium Prediction Using Tabular Machine Learning(Python)
 - Statistical Analysis of Commuting Behavior Across U.S. Regions(Python)
 - Machine Learning–Based Forecasting of Bond Market Returns(Python)
