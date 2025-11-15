@@ -1,4 +1,4 @@
-# Hello, I'm Zhengxiang-Lucas-Li
+# Hello, I'm Lucas-Li
 
 ⚡️ Aspiring Data Analyst& Business Analyst
 
