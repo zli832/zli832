@@ -9,7 +9,7 @@
 - Techniques: Predictive Modeling, Data Visualization, Machine Learning
 
 💻 **Projects**
-- [Kaggle Project: Insurance Premium Prediction Using Tabular Machine Learning(Python)](https://github.com/zli832/Statistical-Analysis-of-Commuting-Behavior-Across-U.S.-Regions)
+- [Kaggle Project: Insurance Premium Prediction Using Tabular Machine Learning(Python)](https://github.com/zli832/Kaggle-Project-Insurance-Premium-Prediction-Using-Tabular-Machine-Learning-Python-)
 - [Statistical Analysis of Commuting Behavior Across U.S. Regions(Python)](https://github.com/zli832/Statistical-Analysis-of-Commuting-Behavior-Across-U.S.-Regions)
 - [Machine Learning–Based Forecasting of Bond Market Returns(Python)](https://github.com/zli832/Machine-Learning-Based-Forecasting-of-Bond-Market-Returns)
 
