@@ -12,6 +12,7 @@
 - [Kaggle Project: Insurance Premium Prediction Using Tabular Machine Learning(Python)](https://github.com/zli832/Kaggle-Project-Insurance-Premium-Prediction-Using-Tabular-Machine-Learning-Python-)
 - [Statistical Analysis of Commuting Behavior Across U.S. Regions(Python)](https://github.com/zli832/Statistical-Analysis-of-Commuting-Behavior-Across-U.S.-Regions)
 - [Machine Learning–Based Forecasting of Bond Market Returns(Python)](https://github.com/zli832/Machine-Learning-Based-Forecasting-of-Bond-Market-Returns)
+- [Analysis-of-BMI-and-Myocardial-Infarction-Risk-Using-the-Framingham-Heart-Study(R)](https://github.com/zli832/Analysis-of-BMI-and-Myocardial-Infarction-Risk-Using-the-Framingham-Heart-Study)
 
 🎓 **Education**
 - Emory University, B.A. in Economics & Math | 2021-2025
