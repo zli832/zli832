@@ -20,4 +20,4 @@
 - Emory University, B.A. in Economics & Math | 2021-2025
 
 📫 **Let’s connect**
-- [LinkedIn](https://www.linkedin.com/in/zhengxiang-li-12a257228/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-li-12a257228/)
