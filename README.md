@@ -1,9 +1,9 @@
 ## Hello, I'm Lucas Li 👋
 
-⚡️ Aspiring Data Analyst& Business Analyst
+⚡️ Aspiring Data Scientist& Data Analyst& Business Analyst
 
 🛠️ **Skills**
-- Programming:  SQL(joins, window functions), Python (Pandas, NumPy， scikit-learn, pyTorch, TenorFlow), R(ggolot2, dplyr)
+- Programming:  SQL(joins, window functions), Python (Pandas, NumPy，scikit-learn, pyTorch, TensorFlow), R(ggolot2, dplyr)
 - Modeling & ML: Regression, Clustering, Time-Series Forecasting, Machine Learning, Deep Learning, Data Structures
 - Analytic & Visualization: Advanced Excel(VBA, Monte Carlo, What-If analysis), PowerBI, Python(matplotlib, seaborn), Tableau
 - Techniques: Predictive Modeling, Data Visualization, Machine Learning
