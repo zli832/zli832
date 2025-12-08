@@ -14,6 +14,7 @@
 - [Machine Learning–Based Forecasting of Bond Market Returns(Python)](https://github.com/zli832/Machine-Learning-Based-Forecasting-of-Bond-Market-Returns)
 - [Analysis-of-BMI-and-Myocardial-Infarction-Risk-Using-the-Framingham-Heart-Study(R)](https://github.com/zli832/Analysis-of-BMI-and-Myocardial-Infarction-Risk-Using-the-Framingham-Heart-Study)
 - [Python Analysis of the Correlation Between Education and Fertility in Brazil, 2010(Python)](https://github.com/zli832/Python-Analysis-of-the-Correlation-Between-Education-and-Fertility-in-Brazil-2010)
+- [Applied Data Science Research: Time Series Analysis & Forecasting(Python)](https://github.com/zli832/Applied-Data-Science-Research-Time-Series-Analysis-Forecasting-Python-)
   
 🎓 **Education**
 - Emory University, B.A. in Economics & Math | 2021-2025
