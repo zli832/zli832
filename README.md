@@ -21,3 +21,5 @@
 
 📫 **Let’s connect**
 - [LinkedIn](https://www.linkedin.com/in/lucas-li-12a257228/)
+- [Portfolio](https://zli832.github.io/)
+- [Email](zhengxiang210207@gmail.com)
