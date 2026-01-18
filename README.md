@@ -17,7 +17,7 @@
 - [Time Series Forecasting of U.S. Air Travel Trends Using ARIMA(Python)](https://github.com/zli832/Applied-Data-Science-Research-Time-Series-Analysis-Forecasting-Python-)
 
 **Practice**
-- [SQL Fundamental Cases Practicess](https://github.com/zli832/-Practical-Coding-Query-Patterns/settings)
+- [SQL Fundamental Cases Practices](https://github.com/zli832/-Practical-Coding-Query-Patterns/settings)
   
 🎓 **Education**
 - Emory University, B.A. in Economics & Math | 2021-2025
